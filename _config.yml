@@ -4,7 +4,7 @@
 
 # Site
 title: JobsService
-subtitle: 'Payroll|Kadry i Płace|ZUS|Prawo Pracy|PFRON|'
+subtitle: 'Payroll|Kadry i Płace|ZUS|Prawo Pracy|PFRON'
 description: 'Kadry  i płace ludzkiem głosem . Od ludzi dla ludzi'
 keywords:
 author: JJobsService sp. z o.o.
@@ -98,6 +98,15 @@ ignore:
 ## Themes: https://hexo.io/themes/
 #theme: landscape
 theme: clean-blog
+
+theme: clean-blog
+
+theme_config:
+
+
+menu_title: jobsService
+
+configurable_title: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
