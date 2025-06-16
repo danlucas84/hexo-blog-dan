@@ -103,8 +103,8 @@ theme: clean-blog
 theme_config:
 
 
-menu_title: jobsService
-configurable_title: true
+menu_title: configurable_title
+
 configurable_title: home
 
 # Deployment
