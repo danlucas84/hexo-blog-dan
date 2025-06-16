@@ -104,8 +104,8 @@ theme_config:
 
 
 menu_title: jobsService
-
-configurable_title: Home
+configurable_title: true
+configurable_title: home
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
