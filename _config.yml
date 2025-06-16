@@ -105,7 +105,6 @@ theme_config:
 
 menu_title: jobsService
 
-configurable_title: false
 configurable_title: Home
 
 # Deployment
